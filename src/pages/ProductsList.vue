@@ -32,8 +32,8 @@ export default {
 <style scoped>
 ul {
   list-style: none;
-  margin: 2rem auto;
-  padding: 0;
-  max-width: 40rem;
+  display: flex;
+  flex-direction: row;
+  padding-inline: 50px;
 }
 </style>

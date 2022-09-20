@@ -42,11 +42,14 @@ export default {
 <style scoped>
 header {
   height: 5rem;
-  background-color: white;
-  margin: 0 10%;
+  background-color: #9751bf43;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 3rem;
+  margin: 2rem;
+  border: none;
+  border-radius: 35px;
 }
 
 ul {
@@ -68,6 +71,7 @@ a {
   font-weight: bold;
   border-bottom: 2px solid transparent;
   padding-bottom: 0.25rem;
+  margin: 20px;
 }
 
 a:hover,
@@ -85,6 +89,7 @@ button {
   background-color: transparent;
   color: #45006d;
   border-radius: 30px;
+  margin: 20px;
 }
 
 button:hover,
