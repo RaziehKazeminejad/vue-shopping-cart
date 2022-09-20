@@ -1,4 +1,4 @@
-# dynamic-dropdown
+# vue-shopping-cart
 
 ## Project setup
 ```
